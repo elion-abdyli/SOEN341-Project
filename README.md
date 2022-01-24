@@ -14,6 +14,7 @@
 * Olivier Langlois Medaino               (Student ID: 40123113, Github Username: SkylineP)
 * Cosmin Suna                            (Student ID: 40125921, Github Username: Coscos10)
 * Elion Abdyli                           (Student ID: 40132982, Github Username: elion-abdyli)
+* Dzmitry Fiodarau                       (Student ID: 40170728, Github Username: dzm-fiodarau)
 
 ## Programming Languages and Techniques
 * HTML
