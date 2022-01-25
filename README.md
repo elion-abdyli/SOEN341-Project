@@ -16,6 +16,8 @@
 * Elion Abdyli                           (Student ID: 40132982, Github Username: elion-abdyli)
 * Dzmitry Fiodarau                       (Student ID: 40170728, Github Username: dzm-fiodarau)
 * Harkirat Kaur                          (Student ID: 40040729, Github Username: red346)
+* Marwan Al-Ghaziri                      (Student ID: 40126554, Github Username:marwanGhaziri)
+
 
 ## Programming Languages and Techniques
 * HTML
