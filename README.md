@@ -20,6 +20,7 @@ This web application is an online store where any kind of product can be found a
 * Harkirat Kaur                          (Student ID: 40040729, Github Username: red346)
 * Marwan Al-Ghaziri                      (Student ID: 40126554, Github Username:marwanGhaziri)
 * Kevin Armstrong Rwigamba               (Student ID: 40176765, Github Username: KevinArmstrong-dev)
+* Ruowei Lin                             (Student ID: 40051150, Github Username: RoyLin0710)
 
 
 ## Programming Languages and Techniques
