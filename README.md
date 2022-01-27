@@ -22,7 +22,7 @@ This web application is an online store where any kind of product can be found a
 * Kevin Armstrong Rwigamba               (Student ID: 40176765, Github Username: KevinArmstrong-dev)
 * Ruowei Lin                             (Student ID: 40051150, Github Username: RoyLin0710)
 * Xavier Morgan-Tracy                    (Student ID: 40129775, Github Username: XavierKMT)
-
+* Yoseph Assefa                          (student ID: 40119252, Github Username: Yos100)
 
 ## Programming Languages and Techniques
 * HTML
